@@ -9,7 +9,7 @@
 (use-package drag-stuff
   :bind( ("<M-up>" . drag-stuff-up )
  ("<M-down>" . drag-stuff-down)))
-(global-set-key "C-h" 'backward-delete-char-untabify)
-(global-set-key "\d" 'delete-char)
+;;(global-set-key "C-h" 'backward-delete-char-untabify)
+;;(global-set-key "\d" 'delete-char)
 
   (provide 'init-kyd)
