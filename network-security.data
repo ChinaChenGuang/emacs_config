@@ -1,0 +1,3 @@
+(
+ (:id "sha1:ff64f82078ae4cd7abafb258917f055383a6f715" :fingerprints ("sha1:3f:a8:02:16:25:aa:5b:99:a1:50:62:9c:38:af:04:36:66:d5:50:90") :host "www.baidu.com:443" :conditions (:renegotiation-info-ext))
+)
